@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gomgomi.github.io/sitemap.xml
