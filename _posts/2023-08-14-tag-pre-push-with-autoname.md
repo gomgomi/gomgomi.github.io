@@ -1,7 +1,7 @@
 ---
 title: "Git hook pre-push로 tag name 변경"
 categories:
-    - Git
+    - git
 tags:
     - Git
     - Git hook

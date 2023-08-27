@@ -10,3 +10,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-category:
+  - title: Categories
+    children:
+      - title: "C++"
+        url: /posts/cpp/
+      - title: "Git"
+        url: /posts/git/

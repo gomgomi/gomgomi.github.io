@@ -1,7 +1,7 @@
 ---
 title: "unique_ptr로 Pimpl idiom 구현시 소멸자의 필요성"
 categories:
-    - C++
+    - cpp
 tags:
     - C++
     - pimpl
