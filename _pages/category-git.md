@@ -1,7 +1,7 @@
 ---
 title: "Git"
 layout: archive
-permalink: "/posts/git"
+permalink: "/git"
 author_profile: true
 sidebar:
     nav: "sidebar-category"
