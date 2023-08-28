@@ -1,7 +1,7 @@
 ---
 title: "C++"
 layout: archive
-permalink: /posts/cpp
+permalink: "/posts/cpp"
 author_profile: true
 sidebar:
     nav: "sidebar-category"

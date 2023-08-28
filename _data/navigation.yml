@@ -15,6 +15,6 @@ sidebar-category:
   - title: Categories
     children:
       - title: "C++"
-        url: /posts/cpp/
+        url: "/posts/cpp/"
       - title: "Git"
-        url: /posts/git/
+        url: "/posts/git/"
