@@ -18,3 +18,5 @@ sidebar-category:
         url: "/cpp"
       - title: "Git"
         url: "/git"
+      - title: "Web"
+        url: "/web"

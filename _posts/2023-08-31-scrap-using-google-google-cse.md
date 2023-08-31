@@ -1,7 +1,7 @@
 ---
 title: "Google CSE(Custom Search Engine) 사용하여 검색결과 가져오기"
 categories:
-    - Web
+    - web
 tags:
     - Web
     - CSE
